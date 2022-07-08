@@ -2,4 +2,4 @@
 
 * Nothing interestring here.
 
-* Destinsation --> Trash
+* Destination --> Trash
